@@ -23,4 +23,4 @@ SeqSeq с attention для машинного перевода from scratch
 Решение задачи extractive суммаризации текста с помощью fasttext sentence embedding для решения задач классификации настроения текста и семантической близости на датасетах The Stanford Sentiment Treebank и Quora Question Pairs соответственно
 
 ## [homework]Signal_processing.ipynb
-
+Классификация гендера говорящего на аудиоданных TIMIT, а также аугментация. Использовался fine tunning ResNet50
