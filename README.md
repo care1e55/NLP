@@ -24,3 +24,6 @@ SeqSeq с attention для машинного перевода from scratch
 
 ## [homework]Signal_processing.ipynb
 Классификация гендера говорящего на аудиоданных TIMIT, а также аугментация. Использовался fine tunning ResNet50
+
+## [homework]QA.ipynb
+Решение задачи Question Answering на датасете BoolQ
