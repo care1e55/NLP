@@ -2,48 +2,38 @@
 Jupyter-notebooks with NLP homeworks solutions from HSE FCS and MIPT courses.
 
 
-[embeddings.ipynb](https://github.com/care1e55/NLP/blob/master/embeddings.ipynb)
+[embeddings.ipynb](https://github.com/care1e55/NLP/blob/master/embeddings.ipynb): 
+question similarity and ranking with quora dataset
 
-Question similarity and ranking with quora dataset
 
-
-[language_model.ipynb](https://github.com/care1e55/NLP/blob/master/language_model.ipynb)
-
+[language_model.ipynb](https://github.com/care1e55/NLP/blob/master/language_model.ipynb): 
 POS-tagging Markov chain model
 
 
 [texts.ipynb](https://github.com/care1e55/NLP/blob/master/texts.ipynb) and 
-[texts2.ipynb](https://github.com/care1e55/NLP/blob/master/texts2.ipynb)
-
-Symbol generation language model and classification with RIA News dataset
-
-
-[lenta.ipynb](https://github.com/care1e55/NLP/blob/master/lenta.ipynb)
-
-Topic classification with lenta.ru dataset
+[texts2.ipynb](https://github.com/care1e55/NLP/blob/master/texts2.ipynb): 
+symbol generation language model and classification with RIA News dataset
 
 
-[seq2seq.ipynb](https://github.com/care1e55/NLP/blob/master/seq2seq.ipynb)
-
-SeqSeq with attention from scratch
-
-
-[bert.ipynb](https://github.com/care1e55/NLP/blob/master/bert.ipynb)
-
-Using BERT from HuggingFace
+[lenta.ipynb](https://github.com/care1e55/NLP/blob/master/lenta.ipynb): 
+topic classification with lenta.ru dataset
 
 
-[texts_ummarization.ipynb](https://github.com/care1e55/NLP/blob/master/texts_ummarization.ipynb)
-
-Extractive text summarization with fasttext sentence embedding with The Stanford Sentiment Treebank dataset. 
-Classification and semantic simmilarity with Quora Question Pairs dataset
+[seq2seq.ipynb](https://github.com/care1e55/NLP/blob/master/seq2seq.ipynb): 
+seq2seq with attention from scratch
 
 
-[signal_processing.ipynb](https://github.com/care1e55/NLP/blob/master/signal_processing.ipynb)
+[bert.ipynb](https://github.com/care1e55/NLP/blob/master/bert.ipynb): 
+using BERT from HuggingFace
 
-Binary Gender speech classification with TIMIT dataset. Using fine tunning ResNet50 and augmentations.
+
+[texts_ummarization.ipynb](https://github.com/care1e55/NLP/blob/master/texts_ummarization.ipynb): 
+extractive text summarization with fasttext sentence embedding with The Stanford Sentiment Treebank dataset and classification and semantic simmilarity with Quora Question Pairs dataset
 
 
-[qa.ipynb](https://github.com/care1e55/NLP/blob/master/qa.ipynb)
+[signal_processing.ipynb](https://github.com/care1e55/NLP/blob/master/signal_processing.ipynb): 
+binary Gender speech classification with TIMIT dataset. Using fine tunning ResNet50 and augmentations.
 
-Question Answering with BoolQ dataset
+
+[qa.ipynb](https://github.com/care1e55/NLP/blob/master/qa.ipynb): 
+question Answering with BoolQ dataset
