@@ -12,8 +12,7 @@ Question similarity and ranking with quora dataset
 POS-tagging Markov chain model
 
 
-[texts.ipynb](https://github.com/care1e55/NLP/blob/master/texts.ipynb)
-
+[texts.ipynb](https://github.com/care1e55/NLP/blob/master/texts.ipynb) and 
 [texts2.ipynb](https://github.com/care1e55/NLP/blob/master/texts2.ipynb)
 
 Symbol generation language model and classification with RIA News dataset
