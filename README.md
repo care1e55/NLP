@@ -19,6 +19,10 @@ symbol generation language model and classification with RIA News dataset
 topic classification with lenta.ru dataset
 
 
+[embdngs_cls_cnn.ipynb](https://github.com/care1e55/NLP/blob/master/embdngs_cls_cnn.ipynb): 
+exploration, w2v and fasstext embeddings, visualisations, fasttext and cnn classification
+
+
 [seq2seq.ipynb](https://github.com/care1e55/NLP/blob/master/seq2seq.ipynb): 
 seq2seq with attention from scratch
 
