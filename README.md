@@ -31,7 +31,7 @@ seq2seq with attention from scratch
 using BERT from HuggingFace
 
 
-[texts_ummarization.ipynb](https://github.com/care1e55/NLP/blob/master/texts_ummarization.ipynb): 
+[texts_ummarization.ipynb](https://github.com/care1e55/NLP/blob/master/text_summarization.ipynb): 
 extractive text summarization with fasttext sentence embedding with The Stanford Sentiment Treebank dataset and classification and semantic simmilarity with Quora Question Pairs dataset
 
 
