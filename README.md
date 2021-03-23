@@ -41,3 +41,8 @@ binary Gender speech classification with TIMIT dataset. Using fine tunning ResNe
 
 [qa.ipynb](https://github.com/care1e55/NLP/blob/master/qa.ipynb): 
 question Answering with BoolQ dataset
+
+
+[ner.ipynb](https://github.com/care1e55/NLP/blob/master/ner.ipynb): 
+sklearn crf and deeppavlov ner_bert_rus
+
