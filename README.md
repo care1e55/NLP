@@ -46,3 +46,7 @@ question Answering with BoolQ dataset
 [ner.ipynb](https://github.com/care1e55/NLP/blob/master/ner.ipynb): 
 sklearn crf and deeppavlov ner_bert_rus
 
+
+[bert_mlm_entailment.ipynb](https://github.com/care1e55/NLP/blob/master/bert_mlm_entailment.ipynb): 
+BERT trained as MLM on GPU for entailment task
+
